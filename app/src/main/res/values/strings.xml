@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CardShuffling</string>
+    <string name="pick_a_card">Pick a card</string>
+    <string name="suit_rank">Suit-Rank</string>
+    <string name="clubs">Clubs</string>
+    <string name="diamonds">Diamonds</string>
+    <string name="hearts">Hearts</string>
+    <string name="spades">Spades</string>
+</resources>
